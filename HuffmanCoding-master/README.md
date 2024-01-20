@@ -8,7 +8,7 @@ Go to the respective directory.
 2. Compare the Input File Size and Compressed File Size.
 We can observe that the file size is reduced significantly.
 
-![2 inputFileSize]([https://github.com/sahilotari/HuffmanCoding/assets/85446273/4947b0b9-206a-4a4f-b368-091df45eb248](https://github.com/rohanchinchkar/Huffman-_Coding/blob/main/HuffmanCoding-master/steps/2.inputFileSize.png))
+![2 inputFileSize](https://github.com/rohanchinchkar/Huffman-_Coding/blob/main/HuffmanCoding-master/steps/2.inputFileSize.png)
 ![3 compressedFileSize](https://github.com/sahilotari/HuffmanCoding/assets/85446273/c03d20b7-1492-403a-be64-8cbe2428a7c0)
 
 3. To decompress the file, use commands as follows.
