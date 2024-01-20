@@ -4,7 +4,7 @@ It is Lossless compression technique used for reducing the size of data or messa
 Clone the repository in local machine.
 Go to the respective directory.
 1. To compress the file use commands as follows.
-![1 compressCmd](https://github.com/sahilotari/HuffmanCoding/assets/85446273/c8d18609-f10d-4b9d-a5e6-fe393d121836)
+![1 compressCmd](HuffmanCoding-master/steps/1.compressCMD.png)
 2. Compare the Input File Size and Compressed File Size.
 We can observe that the file size is reduced significantly.
 
