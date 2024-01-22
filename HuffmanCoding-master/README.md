@@ -19,4 +19,4 @@ We can observe that the file size is reduced significantly.
 ![5 outputFileSize](https://github.com/sahilotari/HuffmanCoding/assets/85446273/dcb247db-cbd2-410e-8139-9eddf67b8393)
 
 5. Compare the content of output and input file.
-![6 CompareInputAndOutputFiles](https://github.com/sahilotari/HuffmanCoding/assets/85446273/04f8f50a-f51b-44bf-8b59-7166f75070d6)
+![6 CompareInputAndOutputFiles](https://github.com/rohanchinchkar/Huffman-_Coding/blob/main/HuffmanCoding-master/steps/6.CompareInputAndOutputFiles.png)
