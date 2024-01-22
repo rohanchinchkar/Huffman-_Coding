@@ -9,7 +9,7 @@ Go to the respective directory.
 We can observe that the file size is reduced significantly.
 
 ![2 inputFileSize](https://github.com/rohanchinchkar/Huffman-_Coding/blob/main/HuffmanCoding-master/steps/2.inputFileSize.png)
-![3 compressedFileSize](https://github.com/sahilotari/HuffmanCoding/assets/85446273/c03d20b7-1492-403a-be64-8cbe2428a7c0)
+![3 compressedFileSize](https://github.com/rohanchinchkar/Huffman-_Coding/blob/main/HuffmanCoding-master/steps/3.compressedFileSize.png)
 
 3. To decompress the file, use commands as follows.
 
