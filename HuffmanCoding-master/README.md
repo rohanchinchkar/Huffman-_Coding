@@ -13,7 +13,7 @@ We can observe that the file size is reduced significantly.
 
 3. To decompress the file, use commands as follows.
 
-![4 decompressCommand](https://github.com/sahilotari/HuffmanCoding/assets/85446273/18bfc81d-ef88-42ad-94a4-512ea0812092)
+![4 decompressCommand](https://github.com/rohanchinchkar/Huffman-_Coding/blob/main/HuffmanCoding-master/steps/4.decompressCMD.png)
 4. Check size of Output File.
 
 ![5 outputFileSize](https://github.com/sahilotari/HuffmanCoding/assets/85446273/dcb247db-cbd2-410e-8139-9eddf67b8393)
